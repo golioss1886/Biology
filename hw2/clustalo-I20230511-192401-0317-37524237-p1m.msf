@@ -1,0 +1,83 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 710  Type: P  May 11, 2023 19:24  Check: 5687  ..
+
+ Name: NP_081182_2              Len:    710  Check: 1936  Weight: -1.00
+ Name: sp_P28223_2_5HT2A_HUMAN  Len:    710  Check: 7216  Weight: -1.00
+ Name: AAF51802_1               Len:    710  Check: 6535  Weight: -1.00
+
+//
+
+                         1                                                   50
+NP_081182_2              ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+sp_P28223_2_5HT2A_HUMAN  ~~~~MDILC. .......... .....EENTS LSSTT...NS LMQLNDDTRL
+AAF51802_1               MPSADQILFV NVTTTVAAAA LTAAAAVSTT KSGSGNAARG YTDSDDDAGM
+
+                         51                                                 100
+NP_081182_2              ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+sp_P28223_2_5HT2A_HUMAN  Y.......SN DFNSGEANTS DAFNWTVDSE NRTNLSCEGC LSPSCLSL..
+AAF51802_1               GTEAVANISG SLVEGLTTVT A.ALSTAQAD KDSAGECEGA VEELHASILG
+
+                         101                                                150
+NP_081182_2              ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+sp_P28223_2_5HT2A_HUMAN  LHLQEKNWSA LLTA....VV IILTIAGNIL VIMAVSLEKK LQNATNYFLM
+AAF51802_1               LQLAVPEWEA LLTALVLSVI IVLTIIGNIL VILSVFTYKP LRIVQNFFIV
+
+                         151                                                200
+NP_081182_2              ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+sp_P28223_2_5HT2A_HUMAN  SLAIADMLLG FLVMPVSMLT ILYGYRWPLP SKLCAVWIYL DVLFSTASIM
+AAF51802_1               SLAVADLTVA LLVLPFNVAY SIL.GRWEFG IHLCKLWLTC DVLCCTSSIL
+
+                         201                                                250
+NP_081182_2              ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~MTPAV FLAILWLVMA SSSPSPDPIL
+sp_P28223_2_5HT2A_HUMAN  HLCAISLDRY VAIQNPIHHS RFNSRTKAFL KIIAVWTISV G...ISMPIP
+AAF51802_1               NLCAIALDRY WAITDPINYA QKRTVGRVLL LISGVWLLSL L...ISSP.P
+
+                         251                                                300
+NP_081182_2              DAEWQKWKIK YGKTYSLEEE GQKRAVWEEN MKKIKLHNGE NGLGKHGFTM
+sp_P28223_2_5HT2A_HUMAN  VFGLQDDSKV FKE.GSC.LL ADDNFVLIGS FVS....... .......FFI
+AAF51802_1               LIGWNDWPDE FTSATPCELT SQRGYVIYSS LGS....... .......FFI
+
+                         301                                                350
+NP_081182_2              EMNAFGDMTL EEF...RKEM I......... .......... ....EIPVPT
+sp_P28223_2_5HT2A_HUMAN  PLTIMVITYF LTIKSLQKEA .......... .......... ......TLCV
+AAF51802_1               PLAIMTIVYI EIFVATRRRL RERARANKLN TIALKSTELE PMANSSPVAA
+
+                         351                                                400
+NP_081182_2              VKKGKSVQKR LSVNLPKFIN WKKRG..... YVTPVRTQ.. ..IACNSCWA
+sp_P28223_2_5HT2A_HUMAN  SDLGT..RAK L......A.S .......... .......... .....FSFLP
+AAF51802_1               SNSGS..KSR L......LAS WLCCGRDRAQ FATPMIQNDQ ESISSETHQP
+
+                         401                                                450
+NP_081182_2              .....IS... .......... .......... .....VTGAI E.GQMFRKTG
+sp_P28223_2_5HT2A_HUMAN  QSSLSS.... .......... .......... .......... ..........
+AAF51802_1               QDSSKAGPHG NSDPQQQHVV VLVKKSRRAK TKDSIKHGKT RGGRKSQSSS
+
+                         451                                                500
+NP_081182_2              QLIPLSVQNL V.DCVDGSGC HAGSVLD... ..SFKYLMEK GGLESEA...
+sp_P28223_2_5HT2A_HUMAN  .......EKL FQ........ .......... ...RSIHRE. ..........
+AAF51802_1               TCEPHGEQQL LPAGGDGGSC QPGGGHSGGG KSDAEISTES .GSDPKGCIQ
+
+                         501                                                550
+NP_081182_2              .TYPYEDKQG SCRYNPENST ASITGFE... .......... FIPNNEVD.L
+sp_P28223_2_5HT2A_HUMAN  .......... .......... .......... .......PGS YTGRRTMQSI
+AAF51802_1               VCVTQADEQT SLKLTPPQSS TGVAAVSVTP LQKKTSGVNQ FIEEKQKISL
+
+                         551                                                600
+NP_081182_2              ...MSAVASL GP.ISVVIDA WHESFLFYKR GIYYEPNCNN SLFA.LRHAV
+sp_P28223_2_5HT2A_HUMAN  SNEQKACKVL GIVFFLFVVM WCPFFITNIM AVICKESCNE DVIGALLNVF
+AAF51802_1               SKERRAARTL GIIMGVFVIC WLPFFLMYVI LPFCQTCCPT NK...FKNFI
+
+                         601                                                650
+NP_081182_2              LLVGYGFIGR ESEGRKYWII KNSLGTKWGY KGYMKIAK.. ..........
+sp_P28223_2_5HT2A_HUMAN  VWIGY..LSS AVNPLVYTLF NKTY..RSAF SRYIQCQYKE NKKPLQLILV
+AAF51802_1               TWLGY..INS GLNPVIYTIF NLDY..RRAF KRLLGLN~~~ ~~~~~~~~~~
+
+                         651                                                700
+NP_081182_2              .......... .......... ......DQGN HCGIASLPVF PRV~~~~~~~
+sp_P28223_2_5HT2A_HUMAN  NTIPALAYKS SQLQMGQKKN SKQDAKTTDN DCSMVALGKQ HSEEASKDNS
+AAF51802_1               ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+                         701   
+NP_081182_2              ~~~~~~~~~~
+sp_P28223_2_5HT2A_HUMAN  DGVNEKVSCV
+AAF51802_1               ~~~~~~~~~~

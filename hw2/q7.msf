@@ -1,0 +1,62 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+NP_081182.2                  ------------------------------------------------------------	0
+sp|P28223.2|5HT2A_HUMAN      ----MDILC----------------EENTSLSSTT---NSLMQLNDDTRLY-------SN	30
+AAF51802.1                   MPSADQILFVNVTTTVAAAALTAAAAVSTTKSGSGNAARGYTDSDDDAGMGTEAVANISG	60
+                                                                                         
+
+NP_081182.2                  ------------------------------------------------------------	0
+sp|P28223.2|5HT2A_HUMAN      DFNSGEANTSDAFNWTVDSENRTNLSCEGCLSPSCLSL--LHLQEKNWSALLTA----VV	84
+AAF51802.1                   SLVEGLTTVTA-ALSTAQADKDSAGECEGAVEELHASILGLQLAVPEWEALLTALVLSVI	119
+                                                                                         
+
+NP_081182.2                  ------------------------------------------------------------	0
+sp|P28223.2|5HT2A_HUMAN      IILTIAGNILVIMAVSLEKKLQNATNYFLMSLAIADMLLGFLVMPVSMLTILYGYRWPLP	144
+AAF51802.1                   IVLTIIGNILVILSVFTYKPLRIVQNFFIVSLAVADLTVALLVLPFNVAYSIL-GRWEFG	178
+                                                                                         
+
+NP_081182.2                  ---------------------------------------------MTPAVFLAILWLVMA	15
+sp|P28223.2|5HT2A_HUMAN      SKLCAVWIYLDVLFSTASIMHLCAISLDRYVAIQNPIHHSRFNSRTKAFLKIIAVWTISV	204
+AAF51802.1                   IHLCKLWLTCDVLCCTSSILNLCAIALDRYWAITDPINYAQKRTVGRVLLLISGVWLLSL	238
+                                                                              : :  :* :  
+
+NP_081182.2                  SSSPSPDPILDAEWQKWKIKYGKTYSLEEEGQKRAVWEENMKKIKLHNGENGLGKHGFTM	75
+sp|P28223.2|5HT2A_HUMAN      G---ISMPIPVFGLQDDSKVFKE-GSC-LLADDNFVLIGSFVS--------------FFI	245
+AAF51802.1                   L---ISSP-PLIGWNDWPDEFTSATPCELTSQRGYVIYSSLGS--------------FFI	280
+                                    *      :.    : .       .:   *   .: .              * :
+
+NP_081182.2                  EMNAFGDMTLEEF---RKEMI-----------------------EIPVPTVKKGKSVQKR	109
+sp|P28223.2|5HT2A_HUMAN      PLTIMVITYFLTIKSLQKEA--------------------------TLCVSDLGT--RAK	277
+AAF51802.1                   PLAIMTIVYIEIFVATRRRLRERARANKLNTIALKSTELEPMANSSPVAASNSGS--KSR	338
+                              :  :    :  :   ::.                            : . . *.  : :
+
+NP_081182.2                  LSVNLPKFINWKKRG-----YVTPVRTQ----IACNSCWA-----IS-------------	142
+sp|P28223.2|5HT2A_HUMAN      L------A-S-------------------------FSFLPQSSLSS--------------	291
+AAF51802.1                   L------LASWLCCGRDRAQFATPMIQNDQESISSETHQPQDSSKAGPHGNSDPQQQHVV	392
+                             *        .                          :                       
+
+NP_081182.2                  ---------------VTGAIE-GQMFRKTGQLIPLSVQNLV-DCVDGSGCHAGSVLD---	182
+sp|P28223.2|5HT2A_HUMAN      -------------------------------------EKLFQ------------------	296
+AAF51802.1                   VLVKKSRRAKTKDSIKHGKTRGGRKSQSSSTCEPHGEQQLLPAGGDGGSCQPGGGHSGGG	452
+                                                                  ::*.                   
+
+NP_081182.2                  --SFKYLMEKGGLESEA----TYPYEDKQGSCRYNPENSTASITGFE-------------	223
+sp|P28223.2|5HT2A_HUMAN      ---RSIHRE------------------------------------------------PGS	305
+AAF51802.1                   KSDAEISTES-GSDPKGCIQVCVTQADEQTSLKLTPPQSSTGVAAVSVTPLQKKTSGVNQ	511
+                                 .   *                                                   
+
+NP_081182.2                  FIPNNEVD-L---MSAVASLGP-ISVVIDAWHESFLFYKRGIYYEPNCNNSLFA-LRHAV	277
+sp|P28223.2|5HT2A_HUMAN      YTGRRTMQSISNEQKACKVLGIVFFLFVVMWCPFFITNIMAVICKESCNEDVIGALLNVF	365
+AAF51802.1                   FIEEKQKISLSKERRAARTLGIIMGVFVICWLPFFLMYVILPFCQTCCPTNK---FKNFI	568
+                             :  ..    :     *   **  : :.:  *   *:        :  *  .    : : .
+
+NP_081182.2                  LLVGYGFIGRESEGRKYWIIKNSLGTKWGYKGYMKIAK----------------------	315
+sp|P28223.2|5HT2A_HUMAN      VWIGY--LSSAVNPLVYTLFNKTY--RSAFSRYIQCQYKENKKPLQLILVNTIPALAYKS	421
+AAF51802.1                   TWLGY--INSGLNPVIYTIFNLDY--RRAFKRLLGLN-----------------------	601
+                               :**  :.   :   * :::     : .:.  :                          
+
+NP_081182.2                  ----------------DQGNHCGIASLPVFPRV-----------------	332
+sp|P28223.2|5HT2A_HUMAN      SQLQMGQKKNSKQDAKTTDNDCSMVALGKQHSEEASKDNSDGVNEKVSCV	471
+AAF51802.1                   --------------------------------------------------	601
+                                                                               
